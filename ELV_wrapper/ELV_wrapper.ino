@@ -26,7 +26,7 @@
  
 
 #include <Arduboy.h>
-#include <ArduboyExtra.h>
+#include "ArduboyExtra.h"
 #include "ArduboyGamby.h"
 #include <avr/pgmspace.h>
 
